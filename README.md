@@ -15,3 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ![](https://komarev.com/ghpvc/?username=jeet-bhunu&color=brightgreen)
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jeet-bhunu&layout=compact&theme=radical" width="500" />
